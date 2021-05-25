@@ -14,8 +14,10 @@ We are creating an Android App.
 
 **3.Trafficking feature -->** Report potential trafficking areas to the server which could be investigated by police. 
 
-**Technology Used - **
+**Technology Used -**
+
 Java
+
 Android Studio
 
 **Here the link to PDF presentation -**

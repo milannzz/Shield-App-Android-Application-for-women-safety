@@ -17,7 +17,6 @@ We are creating an Android App.
 **Technology Used -**
 
 Java
-
 Android Studio
 
 **Here the link to PDF presentation -**

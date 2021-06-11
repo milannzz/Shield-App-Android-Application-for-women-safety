@@ -18,6 +18,8 @@ We are creating an Android App.
 
 Java
 Android Studio
+Gradle
+Android SDK
 
 **Here the link to PDF presentation -**
 https://milannzz.github.io/

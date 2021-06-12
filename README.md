@@ -1,5 +1,7 @@
 **#AS120_EZ4US**
 
+Application for sih.
+
 **Core idea -**
 
 Developing an Android Application for victim that will alert the Authorities & our network of 

@@ -1,6 +1,6 @@
 **#AS120_EZ4US**
 
-Application for sih.
+ Android Application for Smart India Hackathon.
 
 **Core idea -**
 
